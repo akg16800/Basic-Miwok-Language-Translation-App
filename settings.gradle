@@ -1,0 +1,2 @@
+rootProject.name = "miwok1"
+include ':app'
